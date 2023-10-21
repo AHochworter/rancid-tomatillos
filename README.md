@@ -4,7 +4,8 @@
 
 <img width="1361" alt="Screenshot 2023-10-21 at 09 25 23" src="https://github.com/joh-ann/rancid-tomatillos/assets/126308696/e5ebc4d4-68ec-4020-abe5-04042043aa71">
 
-### [Deployed Link](https://rancid-tomatillos-joh-ann.vercel.app/)
+### [Deployed Link](https://rancid-tomatillos-i7e4gac8l-turing-team.vercel.app/)
+
 
 </div>
 
