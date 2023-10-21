@@ -1,6 +1,9 @@
 # Rancid Tomatillos
 ![image](https://github.com/joh-ann/rancid-tomatillos/assets/125393235/053ecfb6-8c38-411e-85f1-49b4a29f3d48)
 
+## Deployed Link
+rancid-tomatillos-i7e4gac8l-turing-team.vercel.app
+
 
 ## Abstract
 Introducing "Rancid Tomatillos," your ultimate movie companion app! With Rancid Tomatillos, you can effortlessly navigate through a selection of movies, each accompanied by its rating, title, and year of release. When you discover a movie that piques your interest, a world of cinematic details awaits at your fingertips. A single click opens a cinematic window, unveiling an immersive experience with an in-depth overview of the movie. What's more, you can even enjoy the movie's trailer right from this elegant interface.
