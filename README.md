@@ -2,7 +2,7 @@
 ![image](https://github.com/joh-ann/rancid-tomatillos/assets/125393235/053ecfb6-8c38-411e-85f1-49b4a29f3d48)
 
 ## Deployed Link
-rancid-tomatillos-i7e4gac8l-turing-team.vercel.app
+[rancid-tomatillos-i7e4gac8l-turing-team.vercel.app](https://rancid-tomatillos-i7e4gac8l-turing-team.vercel.app/)
 
 
 ## Abstract
